@@ -2,7 +2,6 @@ body{
  background-image:url(https://images8.alphacoders.com/135/1354012.png);
  width: auto;
  height: auto;
- font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .skill-container{
     text-align: center;
@@ -13,4 +12,23 @@ body{
 }
 .center-header{
     text-align: center;
+}
+p{
+    font-family: Chakra Petch;
+  }
+h1{
+    font-family: Chakra Petch;
+}
+h2{
+    font-family: Chakra Petch;
+}
+h3{
+    font-family: Chakra Petch;
+    font-weight: 300;
+}
+h4{
+    font-family: Chakra Petch;
+}
+h5{
+    font-family: Chakra Petch;
 }
